@@ -35,3 +35,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![Coronavirus Cases and Planning Report for US Counties_Page 1](https://user-images.githubusercontent.com/98731540/151761226-71e0f587-6c3c-4ee4-88a3-e28f426724e8.png)
