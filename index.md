@@ -6,8 +6,7 @@ Below you will find the COVID County Impact Infographic for North Miami Beach
 
 **Note From ArcGIS** 
 
--John Hopkins has not found a reliable source for this information at the county level but will continue to look and carry the fields~
-
+-John Hopkins has not found a reliable source for this information at the county level but will continue to look and carry the fields
 -Fields for Incident Rate and People Tested are placeholders for when this becomes available at the county level
 
 
